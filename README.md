@@ -5,7 +5,9 @@ Hi, I'm Joseph! I am an aspiring data analyst looking to grow my skills in SQL, 
 I am also currently full-time job searching, looking for any entry level analyst roles. I am eager to join an organization looking to take a chance on an aspiring analyst who is willing to learn and soak up all and any information needed to grow throughout an organization! 
 
 ## Portfolio Projects
+In this section, I will be showcasing projects using different tech stacks from either my coursework through Coursera and/or personal passion projects. 
+### Extracting and Visualizing Stock Data using Python
 
-### Extracting and Visualizing Stock Data
+#### Code
 
-#### About
+![Final Assignment Question 1](https://github.com/user-attachments/assets/bcd7a261-287f-4e31-a5d1-c88204a8d394)
