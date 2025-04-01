@@ -20,4 +20,4 @@ In this section, I will be showcasing projects using different tech stacks from 
 
 ![Final Assignment Question 5](https://github.com/user-attachments/assets/1232c724-c71a-41c5-b91a-951aae685808)
 
-#### Goal: To extract Tesla stock data using yfinance
+#### Results: Use python functions like yfinance, BeautifulSoup, Pandas, and more to extract Tesla Stock data from a webpage, and present it in a clear manor either in tabular form or graphical form. 
