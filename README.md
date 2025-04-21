@@ -21,3 +21,18 @@ In this section, I will be showcasing projects using different tech stacks from 
 ![Final Assignment Question 5](https://github.com/user-attachments/assets/1232c724-c71a-41c5-b91a-951aae685808)
 
 #### Results: Use python functions like yfinance, BeautifulSoup, Pandas, and more to extract Tesla Stock data from a webpage, and present it in a clear manor either in tabular form or graphical form. 
+
+### Analyzing and Interpreting multiple datasets from the city of Chicago
+
+#### Code:
+
+![SQL Final Assignment Problems 1 and 2](https://github.com/user-attachments/assets/d1c8acdf-6806-4ad6-8f16-796c9df68445)
+![SQL Final Assignment Problems 3 and 4](https://github.com/user-attachments/assets/77f234a0-6ad2-4a1e-ae78-cdf90945d0c5)
+![SQL Final Assignment Problem 5](https://github.com/user-attachments/assets/080ccc04-4dfe-489b-94f2-f23c9cb85c88)
+![SQL Final Assignment Problems 6 and 7](https://github.com/user-attachments/assets/374367d2-8f19-4e32-bc7d-955b4220dd72)
+![SQL Final Assignment Problems 8 and 9](https://github.com/user-attachments/assets/9277e2be-cce4-4e53-864f-422e9d71f692)
+![SQL Final Assignment Problem 10](https://github.com/user-attachments/assets/6d95b1ed-d544-493d-bbe4-d09044983b88)
+
+#### Description: This project was a final assignment with Coursera that allowed me to gain hands-on experience by drawing insights from the questions asked. I had to download 3 datasets available on the city of Chicago's data portal; Socioeconomic Indicators in Chicago, Chicago Public Schools, and Chicago Crime Data. All 3 of these tables were connected to one another through primary and foreign keys. This project involved loading the data, writing queries and subqueries, and answering questions to draw insight from multiple tables. 
+
+#### Results: Use SQL queries to answer questions about the city of Chicago from multiple datasets. 
